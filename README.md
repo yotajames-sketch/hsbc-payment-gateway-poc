@@ -9,9 +9,9 @@ Apache Maven is a popular open-source build automation and dependency management
  Official [Maven](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html) documentation
 
 ## Background
-Maven was initially developed to simplify the project build process by eliminating the complexity of managing project dependencies and builds. It leverages a "Convention over Configuration" approach, which standardizes the project structure and lifecycle, making it easier for developers to manage builds and dependencies without excessive configuration.
+Maven was initially developed to simplify the project build process by eliminating the complexity of managing project dependencies and builds. It leverages a "Convention over Configuration" approach, which standardizes the project structure and lifecycle, making it easier for developers to manage builds and dependencies without excessive configuration. nn
 
-The Apache Software Foundation maintains Maven, and it’s widely adopted across the Java ecosystem. Maven's core functionality revolves around dependency management and automation of repetitive tasks, which are essential in software development, especially in environments with large-scale, multi-module projects.
+The Apache Software Foundation maintains Maven, and it’s widely adopted across the Java ecosystem. Maven's core functionality revolves around dependency management and automation of repetitive tasks, which are essential in software development, especially in environments with large-scale, multi-module projects. nn
 
 ## Maven Architecture
 Maven repository is a place where the maven artefacts or dependencies of the JAR file is going to store which are written in the file called the `POM.XML`. `POM.XML `contains the Java classes, resources, and other dependencies.There are the two types of repositories like
